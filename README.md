@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=image7&label=Profile%20views&color=0e75b6&style=flat" alt="image7" /> </p>
 
-- 🔭 I’m currently building SAAS dashboards at [rtCamp](https://rtcamp.com/)
+- 🔭 Building SAAS dashboards at [rtCamp](https://rtcamp.com/)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 Learning **Nest.js**
 
-- 👨‍💻 All of my projects are available at [https://ibnulkayes.com/](https://ibnulkayes.com/)
+- 👨‍💻 Have a look at my [portfolio](https://ibnulkayes.com/)
 
 - 💬 Ask me about **React, React Native, Node.js**
 
