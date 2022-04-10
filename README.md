@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ibnul</h1>
+<h1>Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=image7&label=Profile%20views&color=0e75b6&style=flat" alt="image7" /> </p>
 
